@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/texto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="32dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="159dp"
+            android:layout_height="159dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/_3"
+            tools:srcCompat="@drawable/_3" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hoja de vida"
+        android:textColor="#ED134FCA"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.007" />
+
+    <TextView
+        android:id="@+id/nombre"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="195dp"
+        android:text="Nombre : WALTER DAVID SORA CIFUENTES"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/DOCUMENTO"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:text="Cedula: 1012424845"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nombre" />
+
+    <TextView
+        android:id="@+id/Fechanacimiento"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:text=" Fecha de nacimiento: Sep/9/1995"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DOCUMENTO" />
+
+    <TextView
+        android:id="@+id/lugarnacimiento"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:text="Lugar de nacimiento: Bogota"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Fechanacimiento" />
+
+    <TextView
+        android:id="@+id/Estadocivil"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:text="Estado Civil: Soltero"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lugarnacimiento" />
+
+    <TextView
+        android:id="@+id/DIRECCIÓN"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:text="Direccion : CL.44 sur No 78 k 29"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Estadocivil" />
+
+    <TextView
+        android:id="@+id/TELÉFONO"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:text="Telefono: 3133657578"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DIRECCIÓN" />
+
+    <TextView
+        android:id="@+id/EMAIL"
+        android:layout_width="408dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="4dp"
+        android:text="E-mail: Walter-sora@hotmail.com"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TELÉFONO" />
+
+    <Button
+        android:id="@+id/siguiente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sigueinte"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/EMAIL" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
