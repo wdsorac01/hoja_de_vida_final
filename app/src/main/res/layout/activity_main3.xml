@@ -3,10 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@drawable/imagen"
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/next2"
@@ -85,6 +86,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="RICOH"
+                android:textColor="#090909"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
@@ -92,6 +95,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Aprendiz SENA"
+                android:textColor="#090909"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
@@ -99,6 +104,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="23/04/2015-14/01/2016"
+                android:textColor="#090909"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
@@ -106,6 +113,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="3213710884"
+                android:textColor="#090909"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
         </LinearLayout>
     </LinearLayout>
@@ -164,32 +173,40 @@
             <TextView
                 android:id="@+id/textView45"
                 android:layout_width="match_parent"
+                android:textColor="#090909"
                 android:layout_height="wrap_content"
                 android:text="ATENTO"
-                android:textStyle="bold"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView73"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textColor="#090909"
                 android:text="RacBakcoffice"
-                android:textStyle="bold"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView46"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textColor="#090909"
                 android:text=" 03/01/2017– 7/02/2022"
-                android:textStyle="bold"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView74"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
+                android:textColor="#090909"
                 android:text="5940090 opc 5
 
-" />
+"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textStyle="bold" />
         </LinearLayout>
 
     </LinearLayout>
@@ -249,14 +266,18 @@
                 android:id="@+id/textView53"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textColor="#090909"
                 android:text="AMERICAS - ETB"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView54"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textColor="#090909"
                 android:text="Asesor servicio al cliente"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
@@ -264,6 +285,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="30/03/2016"
+                android:textColor="#090909"
+
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
 
             <TextView
@@ -271,6 +295,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="4251700"
+                android:textColor="#090909"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textStyle="bold" />
         </LinearLayout>
 

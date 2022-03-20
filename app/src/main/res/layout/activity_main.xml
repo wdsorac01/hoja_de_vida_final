@@ -5,6 +5,7 @@
     android:id="@+id/texto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/imagen"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -45,7 +46,10 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="195dp"
+        android:shadowColor="#0B0A0A"
         android:text="Nombre : WALTER DAVID SORA CIFUENTES"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#090909"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView" />
@@ -55,7 +59,9 @@
         android:layout_width="408dp"
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
+        android:textColor="#090909"
         android:text="Cedula: 1012424845"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/nombre" />
@@ -66,7 +72,9 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="4dp"
+        android:textColor="#090909"
         android:text=" Fecha de nacimiento: Sep/9/1995"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/DOCUMENTO" />
@@ -77,7 +85,9 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="4dp"
+        android:textColor="#090909"
         android:text="Lugar de nacimiento: Bogota"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Fechanacimiento" />
@@ -88,6 +98,8 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:text="Estado Civil: Soltero"
+        android:textColor="#090909"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lugarnacimiento" />
@@ -98,6 +110,8 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:text="Direccion : CL.44 sur No 78 k 29"
+        android:textColor="#090909"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Estadocivil" />
@@ -108,6 +122,8 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:text="Telefono: 3133657578"
+        android:textColor="#090909"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/DIRECCIÓN" />
@@ -118,6 +134,8 @@
         android:layout_height="37dp"
         android:layout_marginStart="4dp"
         android:text="E-mail: Walter-sora@hotmail.com"
+        android:textColor="#090909"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TELÉFONO" />

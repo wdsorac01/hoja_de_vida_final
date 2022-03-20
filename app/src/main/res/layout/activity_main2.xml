@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/coordinatorLayout"
     android:layout_width="match_parent"
+    android:background="@drawable/imagen"
     android:layout_height="match_parent">
 
     <TextView
@@ -15,7 +16,7 @@
 Ingeniería de Sistemas En curso "
 
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textColor="#00BCD4"
+        android:textColor="@color/black"
         android:textSize="15sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/INFORMACION" />
@@ -49,7 +50,7 @@ valores morales, persona proactiva, responsable y con disposición de
 aprender cada día más.
 "
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textColor="#00BCD4"
+        android:textColor="#090909"
         android:textSize="15sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -81,7 +82,7 @@ redes y cableado estructurado
 23 de octubre de 2015
 "
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textColor="#00BCD4"
+        android:textColor="@color/black"
         android:textSize="15sp"
 
         app:layout_constraintStart_toStartOf="parent"
@@ -95,12 +96,11 @@ redes y cableado estructurado
         android:text="➢ Colegio Porfirio Barba Jacob
 Bachiller académico
 30 noviembre de 2011"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView5"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textColor="#00BCD4"
+        android:textColor="@color/black"
         android:textSize="15sp"
-        />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
     <Button
         android:id="@+id/next"

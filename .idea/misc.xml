@@ -5,14 +5,16 @@
       <map>
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_camara.xml" value="0.22" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main3.xml" value="0.33" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main4.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main5.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main6.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/activity_main7.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/anexos.xml" value="0.25" />
-        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/experiencia.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/experiencia.xml" value="0.33" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/perfil.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/hojadevida/app/src/main/res/layout/perfilclass.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
