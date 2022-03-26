@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoja</string>
+    <string name="sigueinte" translatable="false">siguiente pagina</string>
+    <string name="next">siguiente pagina</string>
+    <string name="next2">siguiente pagina</string>
+    <string name="next3">siguiente pagina</string>
+    <string name="next4">atras pagina</string>
+    <string name="texto_check">cambiar color</string>
+    <string name="Texto_suwitch">cambiar tamaño</string>
+    <string name="miPrimerTexto">Estudiante de decimo semestre de ingeniería de sistemas, tecnólogo en mantenimiento de equipos de cómputo, instalación de redes y cableado estructurado, con experiencia en programación de servicios de telecomunicaciones, mantenimiento de equipos de cómputo, instalación de cableado estructurado de acuerdo al diseño establecido, interpretación de planos eléctricos de acuerdo a las normas técnicas vigentes, diagnóstico de fallas y defectos en los equipos, configuración de dirección IP de impresoras y computadores, manejo de sistema ofimático. Con excelentes valores morales, persona proactiva, responsable y con disposición de aprender cada día más.</string>
+    <string name="btnCamara2">atras</string>
+    <string name="text_3">SENA Tecnólogo en mantenimiento de equipos de cómputo, instalación de redes y cableado estructurado 23 de octubre de 2015</string>
+    <string name="text_2">Fundación Universitaria Los Libertadores Ingeniería de Sistemas En curso</string>
+    <string name="text_4">Colegio Porfirio Barba Jacob Bachiller académico 30 noviembre de 2011</string>
+    <string name="profile">PERFIL</string>
+    <string name="academica">"INFORMACION ACADEMICA "</string>
+    <string name="hojavida">HOJA DE VIDA</string>
+    <string name="NAME">Nombre : WALTER DAVID SORA CIFUENTES</string>
+    <string name="CEDULA">Cedula: 1012424845</string>
+    <string name="Fechanacimiento">fecha de nacimiento: 8/sep/1995</string>
+    <string name="Lugarnacimiento">Lugar de nacimiento: Bogota</string>
+    <string name="Estadocivil">Estado cilvil : soltero</string>
+    <string name="Direccion">Direccion : CL.44 sur No 78 k 29</string>
+    <string name="Telefono">Telefono: 3133657578</string>
+    <string name="email">"Correo: Walter-sora@hotmail.com "</string>
+    <string name="Experiencia">"EXPERIENCIA LABORAL "</string>
+    <string name="Empresa" >"EMPRESA   "</string>
+    <string name="CARGO" >CARGO</string>
+    <string name="TIEMPOLABORADO" >"TIEMPO LABORADO "</string>
+    <string name="TELEFONO" >TELEFONO</string>
+    <string name="BTNCAMARA" >Tomar foto</string>
+    <string name="FOTOCEDULA" >Tome foto de su cedula</string>
+    <string name="ATRAS" >Atras</string>
+</resources>
