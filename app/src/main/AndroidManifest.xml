@@ -14,9 +14,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HojaDeVida" >
         <activity
-            android:name=".MainActivity7"
-            android:exported="false" />
-        <activity
             android:name=".camara"
             android:exported="false" />
         <activity

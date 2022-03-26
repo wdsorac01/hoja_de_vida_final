@@ -22,6 +22,7 @@ public class camara extends AppCompatActivity implements View.OnClickListener {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_camara);
+
         btnCamara = findViewById(R.id.btnCamara);
         atras = findViewById(R.id.button4);
         atras.setOnClickListener(this);

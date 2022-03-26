@@ -22,10 +22,10 @@
         android:id="@+id/t1texlab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="EXPERIENCIA LABORAL "
+        android:text="@string/Experiencia"
+        android:textColor="#ED0913E1"
         android:textSize="25sp"
         android:textStyle="bold"
-        android:textColor="#ED0913E1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -51,28 +51,28 @@
                 android:id="@+id/textView63"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="EMPRESA"
+                android:text="@string/Empresa"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView67"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CARGO"
+                android:text="@string/CARGO"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView68"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TIEMPO LABORADO"
+                android:text="@string/Experiencia"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView65"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CONTACTO"
+                android:text="@string/TELEFONO"
                 android:textColor="#673AB7" />
         </LinearLayout>
 
@@ -139,29 +139,29 @@
                 android:id="@+id/textView43"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="EMPRESA"
+                android:text="@string/Empresa"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView71"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CARGO"
-                android:textColor="#673AB7"/>
+                android:text="@string/CARGO"
+                android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView44"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TIEMPO LABORADO "
-                android:textColor="#673AB7"/>
+                android:text="@string/Experiencia"
+                android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView72"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TELEFONO"
-                android:textColor="#673AB7"/>
+                android:text="@string/TELEFONO"
+                android:textColor="#673AB7" />
         </LinearLayout>
 
         <LinearLayout
@@ -231,28 +231,28 @@
                 android:id="@+id/textView51"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="EMPRESA   "
+                android:text="@string/Empresa"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView76"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CARGO"
+                android:text="@string/CARGO"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView75"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TIEMPO LABORADO"
+                android:text="@string/Experiencia"
                 android:textColor="#673AB7" />
 
             <TextView
                 android:id="@+id/textView52"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TELEFONO"
+                android:text="@string/TELEFONO"
                 android:textColor="#673AB7" />
         </LinearLayout>
 

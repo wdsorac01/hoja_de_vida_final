@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Tomar foto" />
+            android:text="@string/BTNCAMARA" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -54,10 +54,10 @@
                 android:layout_gravity="center"
                 android:rotation="-14"
                 android:rotationX="-42"
-                android:textColor="#090909"
                 android:rotationY="-10"
-                android:text="Tome foto de su cedula"
+                android:text="@string/FOTOCEDULA"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="#090909"
                 android:textSize="35sp" />
         </TableRow>
     </LinearLayout>
@@ -66,6 +66,6 @@
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Atras" />
+        android:text="@string/ATRAS" />
 
 </LinearLayout>

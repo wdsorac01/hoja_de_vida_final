@@ -1,13 +1,37 @@
 <resources>
-    <string name="app_name">Hoja</string>
-    <string name="sigueinte">siguiente pagina</string>
-    <string name="next">siguiente pagina</string>
-    <string name="next2">siguiente pagina</string>
-    <string name="next3">siguiente pagina</string>
-    <string name="next4">atras pagina</string>
+    <string name="app_name">sheet</string>
+    <string name="sigueinte">"next page "</string>
+    <string name="next">"next page "</string>
+    <string name="next2">"next page "</string>
+    <string name="next3">"next page "</string>
+    <string name="next4">back page</string>
 
-    <string name="btnCamara">Hoja</string>
-    <string name="btnCamara1">Hoja</string>
-    <string name="btnCamara2">Hoja</string>
+    <string name="btnCamara2">behind</string>
+    <string name="texto_check">"change color "</string>
+    <string name="Texto_suwitch">"change the size "</string>
+    <string name="miPrimerTexto">Tenth-semester student of systems engineering, technologist at maintenance of computer equipment, installation of networks and cabling structured, with experience in programming services of telecommunications, maintenance of computer equipment, installation of structured cabling according to the established design, interpretation of electrical plans according to current technical standards, diagnosis of faults and defects in the equipment, configuration of the IP address of printers and computers, management of office automation system. with excellent moral values, proactive person, responsible and willing to Learn more every day.</string>
+    <string name="text_3">SIGN Technologist in maintenance of computer equipment, installation of networks and structured cabling October 23, 2015</string>
+    <string name="text_2">Los Libertadores University Foundation Systems engineer In progress</string>
+    <string name="text_4">Porfirio Barba Jacob School academic bachelor November 30, 2011</string>
+    <string name="profile">PROFILE</string>
+    <string name="academica">"ACADEMIC INFORMATION "</string>
+    <string name="hojavida">"CURRICULUM VITAlE "</string>
+    <string name="NAME">"Name : WALTER DAVID SORA CIFUENTES "</string>
+    <string name="CEDULA">Identification: 1012424845</string>
+    <string name="Fechanacimiento">date of birth: 8/sep/1995</string>
+    <string name="Lugarnacimiento">Place of birth: Bogota</string>
+    <string name="Estadocivil">Marital status: single</string>
+    <string name="Direccion">Direction : CL.44 sur No 78 k 29</string>
+    <string name="Telefono">"Phone: 3133657578 "</string>
+    <string name="email">E-mail: Walter-sora@hotmail.com</string>
+    <string name="Experiencia">"WORK EXPERIENCE "</string>
+    <string name="Empresa" >BUSINESS</string>
+    <string name="CARGO" >POSITION</string>
+    <string name="TIEMPOLABORADO" >TIMEWORKED</string>
+    <string name="TELEFONO" >PHONE</string>
+    <string name="BTNCAMARA" >Take photo</string>
+    <string name="FOTOCEDULA" >"Take a photo of your ID "</string>
+    <string name="ATRAS" >Behind</string>
+
 
 </resources>
